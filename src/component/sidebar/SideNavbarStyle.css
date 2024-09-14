@@ -1,0 +1,15 @@
+.active {
+
+    text-underline-offset: 4px;
+    background-color: #374151;
+    border-radius: 5px;
+    font-weight: 600;
+
+    /* font-size: medium; */
+    /* text-decoration: underline; */
+
+}
+
+/* .active::after {
+    font-weight: 700;
+} */
